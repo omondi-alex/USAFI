@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594598213047",
+    "project_id": "taka-623c2",
+    "storage_bucket": "taka-623c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594598213047:android:9c971899d5d6866274e432",
+        "android_client_info": {
+          "package_name": "com.ramgdeveloper.taka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594598213047-i3s621lji8i03l1l8dhk2a7goih06tcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq6oLA4ethQskdRWV-DoQn7IacbF54zes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594598213047-i3s621lji8i03l1l8dhk2a7goih06tcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
